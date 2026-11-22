@@ -1,0 +1,52 @@
+{
+  "name": "next-persian-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Modern, production-ready Next.js 15 starter template with TypeScript, Tailwind CSS, full RTL/Persian localization, Vazirmatn font, and built-in SEO.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.468.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.16.0",
+    "eslint-config-next": "^15.1.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5.7.2"
+  },
+  "keywords": [
+    "nextjs",
+    "nextjs15",
+    "typescript",
+    "tailwindcss",
+    "rtl",
+    "persian",
+    "farsi",
+    "starter-kit",
+    "boilerplate",
+    "seo",
+    "vazirmatn",
+    "dark-mode"
+  ],
+  "author": "Aria Esmaeilzadeh (https://github.com/ariaesm)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariaesm/next-persian-starter.git"
+  }
+}
